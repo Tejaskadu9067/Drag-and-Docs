@@ -3,5 +3,4 @@
 
 2] Further, adding backend to the project can enhance the usability of the Application which i will be doing soon.
 
-Link to the application: https://vercel.com/tejaskadu9067s-projects/drag-and-docs/FGEUvpvd8oZvTngu8kPoRtgYZrQi
-
+Link to the application: https://drag-and-docs.vercel.app/
