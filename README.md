@@ -1,8 +1,5 @@
-# React + Vite
+1] Drag and Docs is a fun frontend project that explores the Framer motion library for User interface design.
+2] Further, adding backend to the project can enhance the usability of the Application which i will be doing soon.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Link to the application: drag-and-docs-ad7m7n0yc-tejaskadu9067s-projects.vercel.app
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
